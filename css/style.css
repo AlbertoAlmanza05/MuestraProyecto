@@ -7,12 +7,13 @@ body{
     color: honeydew;
 }
 
-.icono{
-    height: 50px;
-    width: 70px;
-    border-radius: 15px;
-    padding: 5px;
+nav{
+    height: 80px;
 }
+.icono{
+    
+    padding: 15px;
+} 
 
 footer{
     background-color:  #202124;
@@ -38,40 +39,6 @@ form{
     margin: 20px;
     font-size: 1px;
     justify-content: center;
-}
-
-.facebook{
-    background: blue;
-    
-    color: white;
-    padding: -5px;
-    border-radius: 90px;
-    width: 40px;
-    height: 40px;
-}
-
-.instagram{
-    background: crimson;
-    color: white;
-    width: 40px;
-    height: 40px;
-    border-radius: 70px;
-}
-
-.twitter{
-    background: rgb(12, 193, 248);
-    color: white;
-    width: 40px;
-    height: 40px;
-    border-radius: 70px;
-}
-
-.youtube{
-    background: white;
-    color: red;
-    width: 40px;
-    height: 40px;
-    border-radius: 70px;
 }
 
 hr{
